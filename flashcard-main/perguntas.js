@@ -25,27 +25,27 @@ criaCartao(
 )
 
 criaCartao(
-    'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    'geografia',
+    'Quais são as fases da Lua?',
+    'Nova, crescente, cheia e minguante'
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    'geografia',
+    'Qual o maior planeta do sistema solar?',
+    'Júpiter'
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    'geografia',
+    'Qual o planeta mais próximo do Sol?',
+    'Mercúrio'
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
+    'geografia',
+    'Quantos continentes existem?',
+    '6'
 )
 
 criaCartao(
