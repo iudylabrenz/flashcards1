@@ -1,25 +1,27 @@
 criaCartao(
-    'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'geografia',
+    'Qual a montanha mais alta do mundo?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'geografia',
+    'Onde se localiza Machu Picchu?',
+    'Peru'
 )
 
 criaCartao(
-    'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'geografia',
+    'Que país tem o formato de uma bota?
+',
+    'Itália'
 )
 
 criaCartao(
-    'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'geografia',
+    ' Quanto tempo a Terra demora para dar uma volta completa em torno dela mesma?
+',
+    'Aproximadamente 24 horas'
 )
 
 criaCartao(
